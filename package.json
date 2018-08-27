@@ -1,0 +1,15 @@
+{
+  "name": "pastel-metal-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Pastel Dark Metal Theme",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/masoudmanson/pastel-metal-syntax.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
